@@ -29,6 +29,8 @@ POMの `build > plugin` に `maven-surefire-plugin` を追加
 </plugin>
 ```
 
+- [4.1 Running tests from Maven](https://jmockit.github.io/tutorial/Introduction.html#runningTests)
+
 ## Visual Studio Code
 
 `settings.json` にテスト実行の設定を追記

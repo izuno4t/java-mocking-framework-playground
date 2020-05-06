@@ -1,5 +1,8 @@
 # Java UnitTest Example with JMockit
 
+[![CircleCI](https://circleci.com/gh/izuno4t/jmockit-playground/tree/master.svg?style=svg)](https://circleci.com/gh/izuno4t/jmockit-playground/tree/master)
+
+
 Playground JUnite testing with JMockit
 
 - Java 11

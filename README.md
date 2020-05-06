@@ -40,7 +40,7 @@ POMの `build > plugin` に `maven-surefire-plugin` を追加
 
 ```json
 "java.test.config": {
-    "vmargs": [ "-javaagent:/Users/izuno/develop/java/jmockit-1.49.jar"]
+    "vmargs": [ "-javaagent:/path/to/jmockit-1.49.jar"]
 },
 ```
 
